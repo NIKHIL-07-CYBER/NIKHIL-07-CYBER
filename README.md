@@ -1,121 +1,196 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=Building+full-stack+products;Exploring+AI%2C+NLP%2C+LLMs;Designing+real-time+experiences;Shipping+clean+user-focused+products" alt="Typing SVG" />
-</div>
 
-<div align="center" style="margin: 18px 0 8px;">
-  <h1 style="margin:0; color:#f3f7ff; font-size:48px; font-weight:800;">Hi, I'm Nikhil 👋</h1>
-  <p style="margin:8px 0 18px; color:#b3c2d6; font-size:18px; font-weight:500;">Full-Stack Developer • AI/ML Enthusiast • Real-Time Systems Builder</p>
-</div>
+  <!-- Typing SVG Banner -->
+  <a href="https://github.com/NIKHIL-07-CYBER">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil;Full-Stack+Engineer+%7C+Go+%E2%80%A2+Python+%E2%80%A2+React;Building+AI%2C+Real-Time+Apps+%26+Computer+Vision;Exploring+LLM+Orchestration+%26+RAG" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=for-the-badge" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/WebRTC-29B6F6?style=for-the-badge" alt="WebRTC" />
-</p>
-
-<hr style="border: 1px solid #253447; margin: 22px 0;" />
-
-<div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 20px; padding: 24px; margin: 16px 0; box-shadow: 0 0 0 1px rgba(255,255,255,0.02);">
-  <h2 style="margin:0 0 12px; color:#f2f7ff; font-size:26px;">🚀 About Me</h2>
-  <p style="margin:0; color:#c9d4e4; line-height:1.8; font-size:16px;">
-    I’m a developer who enjoys building impactful products that combine engineering, design, and intelligent systems.
-    My work spans across full-stack application development, AI/ML and LLM-powered ideas, real-time communication systems,
-    computer vision, and adaptive, user-focused web experiences.
-  </p>
-</div>
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px; margin: 22px 0;">
-  <div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 18px; padding: 22px; min-height: 120px;">
-    <h3 style="margin:0 0 10px; color:#f2f7ff; font-size:22px;">🧠 Core Focus</h3>
-    <p style="margin:0; color:#c9d4e4; line-height:1.8;">AI products, automation, product engineering, and clean user experiences.</p>
-  </div>
-  <div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 18px; padding: 22px; min-height: 120px;">
-    <h3 style="margin:0 0 10px; color:#f2f7ff; font-size:22px;">⚙️ Strengths</h3>
-    <p style="margin:0; color:#c9d4e4; line-height:1.8;">Full-stack development, system design, RAG/LLM experimentation, and real-time dashboards.</p>
-  </div>
-</div>
-
-<div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 20px; padding: 24px; margin: 22px 0;">
-  <h2 style="margin:0 0 16px; color:#f2f7ff; font-size:26px;">🛠️ Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/WebRTC-29B6F6?style=flat-square" alt="WebRTC" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  </p>
-</div>
-
-<div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 20px; padding: 24px; margin: 22px 0;">
-  <h2 style="margin:0 0 16px; color:#f2f7ff; font-size:26px;">🔥 Featured Projects</h2>
-
-  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px;">
-    <div style="background: #0d141f; border: 1px solid #2a3749; border-radius: 16px; padding: 18px;">
-      <h3 style="margin:0 0 8px; color:#f2f7ff; font-size:22px;">Enfinity</h3>
-      <p style="margin:0 0 10px; color:#c9d4e4; line-height:1.6;">Adaptive reading platform with AI-driven comprehension enhancement and personalized reading UX.</p>
-      <p style="margin:0; color:#8ad8ff;">React • TypeScript • NLP • Gemini</p>
-    </div>
-
-    <div style="background: #0d141f; border: 1px solid #2a3749; border-radius: 16px; padding: 18px;">
-      <h3 style="margin:0 0 8px; color:#f2f7ff; font-size:22px;">Echelon</h3>
-      <p style="margin:0 0 10px; color:#c9d4e4; line-height:1.6;">Risk monitoring and threat detection platform with modular architecture and real-time dashboards.</p>
-      <p style="margin:0; color:#8ad8ff;">FastAPI • React • Tailwind • WebSockets</p>
-    </div>
-
-    <div style="background: #0d141f; border: 1px solid #2a3749; border-radius: 16px; padding: 18px;">
-      <h3 style="margin:0 0 8px; color:#f2f7ff; font-size:22px;">DigitalFootprint</h3>
-      <p style="margin:0 0 10px; color:#c9d4e4; line-height:1.6;">Investigation workflow for digital evidence management and automation.</p>
-      <p style="margin:0; color:#8ad8ff;">Go • PostgreSQL • React • Playwright</p>
-    </div>
-
-    <div style="background: #0d141f; border: 1px solid #2a3749; border-radius: 16px; padding: 18px;">
-      <h3 style="margin:0 0 8px; color:#f2f7ff; font-size:22px;">MeetOthers</h3>
-      <p style="margin:0 0 10px; color:#c9d4e4; line-height:1.6;">Real-time collaboration platform optimized for video meetings and shared workflows.</p>
-      <p style="margin:0; color:#8ad8ff;">Next.js • Socket.IO • WebRTC</p>
-    </div>
-  </div>
-</div>
-
-<div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 20px; padding: 20px; margin: 22px 0;">
-  <h2 style="margin:0 0 16px; color:#f2f7ff; font-size:26px;">📊 GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-07-CYBER&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-07-CYBER&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+    <strong>Full-Stack Product Engineer</strong> specializing in scalable backend architectures (Go & Python), modern reactive frontends (React 19 & Next.js), real-time peer communication (WebRTC & WebSockets), and LLM/Agentic AI systems.
   </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=NIKHIL-07-CYBER&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
-</div>
 
-<div style="background: rgba(13, 18, 27, 0.92); border: 1px solid #2a3749; border-radius: 20px; padding: 24px; margin: 22px 0;">
-  <h2 style="margin:0 0 12px; color:#f2f7ff; font-size:26px;">📫 Let’s Connect</h2>
-  <p style="margin:0; color:#c9d4e4; line-height:1.8;">
-    I build software that solves real-world problems with a balance of technology, creativity, and product thinking.
-  </p>
-  <p align="center" style="margin-top: 18px;">
-    <a href="https://github.com/NIKHIL-07-CYBER">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.linkedin.com/in/nikhil-kumar-cyber/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
     </a>
   </p>
+
+  <!-- Profile View Counter & Status Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=NIKHIL-07-CYBER&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-success?style=flat-square" alt="Job Status" />
+  </p>
+
 </div>
 
-<div align="center" style="margin-top: 18px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&height=120&fontSize=40" alt="Thanks for visiting" />
+---
+
+### 🚀 What I Bring To The Table
+
+- ⚡ **Full-Stack Systems:** End-to-end web applications with **Go, FastAPI, Node.js, and React 19 / Next.js**.
+- 🧠 **AI & LLM Integration:** Applied experience with **Google Gemini 2.5 Flash**, **RAG pipelines**, and exploratory engineering across **LangChain**, **LlamaIndex**, and **LLMWare**.
+- 📡 **Real-Time & Low Latency:** Production patterns using **WebSockets**, **Socket.IO**, and **WebRTC** peer-to-peer data and media streaming.
+- 👁️ **Computer Vision & Automation:** System-level peripheral control and webcam gesture tracking via **OpenCV**, **MediaPipe**, and **PyAutoGUI**.
+- 🛠️ **Quality & Reliability:** Tested with **Vitest** & **Playwright**, containerized via **Docker**, and deployed across **Render, Railway, and Vercel**.
+
+---
+
+### 💻 Tech Stack & Tooling
+
+<div align="center">
+
+#### Languages
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+#### Frontend & UI
+<img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
+
+#### Backend & Real-Time
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+
+#### AI, ML & Automation
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-111111?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+#### Databases, DevOps & Testing
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+
+</div>
+
+---
+
+### 🌟 Featured Highlights & Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛡️ DigitalFootprint</h3>
+      <p>High-reliability legal and analytics case-tracking platform with complex state workflows.</p>
+      <ul>
+        <li><b>Backend:</b> Go REST APIs</li>
+        <li><b>Frontend:</b> React, TypeScript, Vite</li>
+        <li><b>Data:</b> PostgreSQL, MongoDB</li>
+        <li><b>DevOps:</b> Docker, Playwright, Vitest</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NIKHIL-07-CYBER/DigitalFootprint"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Echelon</h3>
+      <p>Real-time threat monitoring and predictive analytics dashboard with low-latency alerts.</p>
+      <ul>
+        <li><b>Backend:</b> FastAPI, SQLAlchemy, WebSockets</li>
+        <li><b>Frontend:</b> React 19, Tailwind CSS</li>
+        <li><b>Visuals:</b> Framer Motion, Recharts</li>
+        <li><b>Data:</b> SQLite / PostgreSQL</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NIKHIL-07-CYBER/Echelon"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📖 Enfinity</h3>
+      <p>Adaptive AI reading assistant with personalized telemetry and vocabulary difficulty scoring.</p>
+      <ul>
+        <li><b>AI & NLP:</b> Google Gemini 2.5 Flash, Compromise.js</li>
+        <li><b>Client State:</b> Zustand, Dexie.js (IndexedDB)</li>
+        <li><b>Stack:</b> React 19, Express, Node.js</li>
+        <li><b>Deploy:</b> Vercel, Railway</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NIKHIL-07-CYBER/Enfinity"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📹 MeetOthers</h3>
+      <p>Peer-to-peer real-time video collaboration and conferencing platform.</p>
+      <ul>
+        <li><b>Media:</b> WebRTC Mesh & P2P Stream</li>
+        <li><b>Signaling:</b> Socket.IO & Express</li>
+        <li><b>Frontend:</b> React / Next.js</li>
+        <li><b>Deployment:</b> Render Cloud</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/NIKHIL-07-CYBER/MeetOthers"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🖐️ Gesture Controller</h3>
+      <p align="center">Computer vision-based non-intrusive OS automation engine using custom hand gestures for real-time volume, brightness, and mouse control.</p>
+      <p align="center">
+        <code>Python</code> • <code>OpenCV</code> • <code>MediaPipe</code> • <code>PyAutoGUI</code> • <code>PyCaw</code> • <code>NumPy</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/NIKHIL-07-CYBER/gesture-controller"><b>View Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NIKHIL-07-CYBER&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL-07-CYBER&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKHIL-07-CYBER&theme=radical&hide_border=true" width="96%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+I am actively open to **Software Engineer, Full-Stack Developer, and AI/ML Engineering** roles. Whether you want to discuss full-stack architecture, RAG systems, or exciting engineering opportunities:
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
