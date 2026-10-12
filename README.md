@@ -1,55 +1,84 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
+<!-- Top Waving Gradient Banner -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:0891B2&height=200&section=header&text=Nikhil%20Chhasiya&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%C2%B7%20Building%20AI%20Products&descAlignY=58&descSize=18&animation=fadeIn"
+  alt="Nikhil Chhasiya — CS Student building AI products"
+  width="100%"
+/>
+
+<!-- Coral Red Typing Tagline -->
 <a href="https://github.com/NIKHIL-07-CYBER">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil;Full-Stack+Engineer+%7C+Go+%E2%80%A2+Python+%E2%80%A2+React;Building+AI%2C+Real-Time+Apps+%26+Computer+Vision;Exploring+LLM+Orchestration+%26+RAG" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF5F6D&center=true&vCenter=true&width=680&height=60&lines=CS+Student+building+AI+products;Agentic+AI+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems;Go+%C2%B7+Python+%C2%B7+React+19+%C2%B7+WebRTC;Real-Time+Apps+%C2%B7+Computer+Vision+Automation"
+    alt="CS Student building AI products · Agentic AI, RAG, Multi-Agent Systems"
+  />
 </a>
 
-<p align="center">
-  <em>"Simplicity is prerequisite for reliability."</em>
-  <br>
-  <sub>— Edsger W. Dijkstra</sub>
-</p>
+<!-- Profile Social Badges -->
+<a href="https://linkedin.com/in/nikhil-chhasiya/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nikchhasiaya0407@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://leetcode.com/u/NIKHIL-07-CYBER/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<br />
+<img src="https://komarev.com/ghpvc/?username=NIKHIL-07-CYBER&style=flat-square&color=FFC371&label=profile+views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/NIKHIL-07-CYBER?style=flat-square&color=47E5BC&labelColor=1F2937" alt="Followers" />
 
 </div>
 
 ---
 
-### ⚡ Tech Arsenal
+## 🧠 About
+
+I'm a Computer Science student and software engineer who learns by shipping. Most of what I build sits at the intersection of **full-stack engineering, real-time systems, and AI/LLM applications**.
+
+- ⚡ **Full-Stack & Backend Systems:** High-performance services in **Go** and **Python (FastAPI)**, backed by **PostgreSQL**, **MongoDB**, and **Docker**.
+- 🔬 **AI, LLM & Vision:** Building with **Gemini 2.5 Flash**, **RAG pipelines**, and exploratory engineering across **LangChain**, **LlamaIndex**, and **MediaPipe / OpenCV** vision automation.
+- 📡 **Real-Time Architectures:** Low-latency communications using **WebSockets**, **Socket.IO**, and **WebRTC** mesh streaming.
+- 🤝 Open to collaborating on AI tooling, systems engineering, and full-stack software development.
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quoteColor=e6edf3&authorColor=FFC371&symbolColor=47E5BC" alt="Random dev quote" />
+</div>
+
+---
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<p align="center"><b>Languages</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,html,css,cpp" />
-</a>
+**Languages**
 
-<p align="center"><b>Frameworks & Runtime</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=next,react,nodejs,express,tailwind,vite,fastapi" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Go, C++, HTML, CSS" />
 
-<p align="center"><b>AI / Data</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,opencv" />
-</a>
+**Frameworks & Runtime**
 
-<p align="center"><b>Tooling & Infra</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode" />
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,vite,fastapi&theme=dark" alt="Next.js, React, Node.js, Express, Tailwind, Vite, FastAPI" />
 
-<br>
+**AI / Data**
 
-<p align="center">
-  <code>LangChain</code> • <code>LlamaIndex</code> • <code>LLMWare</code> • <code>Google Gemini</code> • <code>MediaPipe</code> • <code>WebRTC</code> • <code>Socket.IO</code> • <code>Zustand</code> • <code>Playwright</code>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,opencv&theme=dark" alt="PostgreSQL, MongoDB, SQLite, OpenCV" />
+
+**Tooling & Infra**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Linux, Vercel, VS Code" />
+
+<sub>
+
+`LangChain` · `LlamaIndex` · `LLMWare` · `Google Gemini` · `MediaPipe` · `WebRTC` · `Socket.IO` · `Zustand` · `Playwright`
+
+</sub>
 
 </div>
 
 ---
 
-### 🚀 Featured Work
+## 🚀 Featured Work
 
 <table>
   <tr>
@@ -139,11 +168,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- Activity Area Graph (matches reference green mountain graph) -->
+  <!-- Activity Area Graph (Green mountain graph) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL-07-CYBER&bg_color=0d1117&color=2ea043&line=2ea043&point=38bdf8&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
 
   <br><br>
@@ -164,7 +193,7 @@
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions
+## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
   <picture>
